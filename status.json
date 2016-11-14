@@ -1,7 +1,7 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "bg",
+  "language": "Bulgarian",
+  "maintainers": ["kberov"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
