@@ -4,8 +4,8 @@
   "maintainers": ["kberov"],
   "files": {
     "01-introduction": {
-      "1-introduction.asc": 0,
-      "sections/about-version-control.asc": 0,
+      "1-introduction.asc": 100,
+      "sections/about-version-control.asc": 100,
       "sections/basics.asc": 0,
       "sections/command-line.asc": 0,
       "sections/first-time-setup.asc": 0,
