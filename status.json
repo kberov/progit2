@@ -8,10 +8,10 @@
       "sections/about-version-control.asc": 100,
       "sections/basics.asc": 100,
       "sections/command-line.asc": 100,
-      "sections/first-time-setup.asc": 0,
+      "sections/first-time-setup.asc": 4,
       "sections/help.asc": 0,
       "sections/history.asc": 100,
-      "sections/installing.asc": 28
+      "sections/installing.asc": 100
     },
     "02-git-basics": {
       "1-git-basics.asc": 0,
